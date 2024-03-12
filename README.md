@@ -1,2 +1,2 @@
-# URtcIOSSDK
-https://urtc.cmcim.com
+# UPRTC IOS SDK
+https://uprtc.cmcim.com
